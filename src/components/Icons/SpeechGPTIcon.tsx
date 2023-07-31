@@ -46,7 +46,7 @@ const SpeechGPTIcon: React.FC<SpeechGPTIconProps> = ({ className, strokeWidth })
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0.0416667" stopColor="#EC4899" />
-          <stop offset="0.498667" stopColor="#A855F7" />
+          <stop offset="0.498667" stopColor="#3b82f6" />
           <stop offset="1" stopColor="#6366F1" />
         </linearGradient>
         <linearGradient
@@ -58,7 +58,7 @@ const SpeechGPTIcon: React.FC<SpeechGPTIconProps> = ({ className, strokeWidth })
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0.0416667" stopColor="#EC4899" />
-          <stop offset="0.498667" stopColor="#A855F7" />
+          <stop offset="0.498667" stopColor="#3b82f6" />
           <stop offset="1" stopColor="#6366F1" />
         </linearGradient>
         <linearGradient
@@ -70,7 +70,7 @@ const SpeechGPTIcon: React.FC<SpeechGPTIconProps> = ({ className, strokeWidth })
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0.0416667" stopColor="#EC4899" />
-          <stop offset="0.498667" stopColor="#A855F7" />
+          <stop offset="0.498667" stopColor="#3b82f6" />
           <stop offset="1" stopColor="#6366F1" />
         </linearGradient>
         <linearGradient
@@ -82,7 +82,7 @@ const SpeechGPTIcon: React.FC<SpeechGPTIconProps> = ({ className, strokeWidth })
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0.0416667" stopColor="#EC4899" />
-          <stop offset="0.498667" stopColor="#A855F7" />
+          <stop offset="0.498667" stopColor="#3b82f6" />
           <stop offset="1" stopColor="#6366F1" />
         </linearGradient>
         <linearGradient
@@ -94,7 +94,7 @@ const SpeechGPTIcon: React.FC<SpeechGPTIconProps> = ({ className, strokeWidth })
           gradientUnits="userSpaceOnUse"
         >
           <stop offset="0.0416667" stopColor="#EC4899" />
-          <stop offset="0.498667" stopColor="#A855F7" />
+          <stop offset="0.498667" stopColor="#3b82f6" />
           <stop offset="1" stopColor="#6366F1" />
         </linearGradient>
       </defs>

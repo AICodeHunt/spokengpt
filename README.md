@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://speechgpt.app"><img height="80px" src="./assets/speechgpt-icon-text.svg" alt="SpeechGPT" /></a>
+  <a href="https://spokengpt.com"><img height="80px" src="./assets/speechgpt-icon-text.svg" alt="SpokenGPT" /></a>
 </p>
 
 <p align="center">
-  <a href="https://speechgpt.app/">Website</a> •
-  <a href="https://github.com/hahahumble/speechgpt/blob/main/docs/README.zh.md">[中文]</a>
+  <a href="https://spokengpt.com/">Website</a> •
+  <a href="https://github.com/JustAIGithub/spokengpt/blob/main/docs/README.zh.md">[中文]</a>
 </p>
 
 <p align="center">
-  <img src="./assets/demo-en.png" alt="SpeechGPT Website Demo" width="900" />
+  <img src="./assets/demo-en.png" alt="SpokenGPT Website Demo" width="900" />
 </p>
 
 ## 🌟 Introduction
-SpeechGPT is a web application that enables you to converse with ChatGPT.</br>
+SpokenGPT is a web application that enables you to converse with ChatGPT.</br>
 You can utilize this app to improve your language speaking skills or simply have fun chatting with ChatGPT.
 
 ## 🚀 Features

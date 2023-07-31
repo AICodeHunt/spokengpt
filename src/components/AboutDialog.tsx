@@ -57,19 +57,10 @@ function AboutDialog({ open, onClose, notify }: AboutDialogProps) {
           <SettingGroup>
             <div className={'text-left ml-0.5 text-gray-600'}>
               <IconWorldWww className="inline mr-1.5 w-5 h-5" />
-              <a href="https://speechgpt.app" className="inline underline hover:text-indigo-600">
+              <a href="https://spokengpt.com" className="inline underline hover:text-indigo-600">
                 Official Website
               </a>
               <br />
-              <div className="mt-1">
-                <IconBrandGithub className="inline mr-1.5 w-5 h-5" />
-                <a
-                  href="https://github.com/hahahumble/speechgpt"
-                  className="inline underline hover:text-indigo-600"
-                >
-                  GitHub
-                </a>
-              </div>
             </div>
           </SettingGroup>
 

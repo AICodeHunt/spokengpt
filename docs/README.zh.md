@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://speechgpt.app"><img height="80px" src="../assets/speechgpt-icon-text.svg" alt="SpeechGPT" /></a>
+  <a href="https://spokengpt.com"><img height="80px" src="../assets/speechgpt-icon-text.svg" alt="SpokenGPT" /></a>
 </p>
 
 <p align="center">
-  <a href="https://speechgpt.app/">网站</a>
+  <a href="https://spokengpt.com/">网站</a>
 </p>
 
 <p align="center">
-  <img src="../assets/demo-zh.png" alt="SpeechGPT Website Demo" width="900px" />
+  <img src="../assets/demo-zh.png" alt="SpokenGPT Website Demo" width="900px" />
 </p>
 
 ## 🌟 简介
-SpeechGPT 是一个让你与 ChatGPT 聊天的网站。<br/>
-你可以使用 SpeechGPT 来练习你的口语，或者只是和 ChatGPT 闲聊。
+SpokenGPT 是一个让你与 ChatGPT 聊天的网站。<br/>
+你可以使用 SpokenGPT 来练习你的口语，或者只是和 ChatGPT 闲聊。
 
 ## 🚀 特点
 - 📖 **开源免费**: 任何人都可以免费使用、修改。
